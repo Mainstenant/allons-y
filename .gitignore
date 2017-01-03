@@ -12,3 +12,6 @@ Thumbs.db
 *.orig
 public/
 media/
+.env
+allons-y.js
+gulpfile.js
