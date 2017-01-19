@@ -3,7 +3,7 @@
   "description": "Mainstenant Allons-y",
   "dependencies": {
     "allons-y-prerender": "^1.0.3",
-    "allons-y-wiki": "^1.0.0"
+    "allons-y-wiki": "^1.0.10"
   },
   "scripts": {
     "start": "node ./node_modules/allons-y/start.js",
