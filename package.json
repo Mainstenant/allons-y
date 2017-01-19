@@ -2,7 +2,10 @@
   "name": "mainstenant",
   "description": "Mainstenant Allons-y",
   "dependencies": {
+    "allons-y-google-analytics": "^1.0.0",
     "allons-y-prerender": "^1.0.3",
+    "allons-y-web-logs": "^1.0.2",
+    "allons-y-web-metrics": "^1.0.3",
     "allons-y-wiki": "^1.0.10"
   },
   "scripts": {
